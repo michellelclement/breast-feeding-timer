@@ -8,17 +8,12 @@ html {
     background-color: #75BBFA;
 }
 
-div {
+div#woman-figure {
     height: 100vh;
-    background: green;
     display: flex;
     align-items: center;
     justify-content: center;
     margin: auto;
-
-}
-
-.woman-figure {
     position: relative;
     z-index: -99;
 }
